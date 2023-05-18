@@ -20,35 +20,35 @@ Below are the description of the features in the data:
 
 
 ## Case Study Techniques
--Data Handling
--Data description
--Exploratory Data Analysis (EDA)
--Feature analysis
--Data Cleaning
--Data preprocessing
-       •Data transformation
-       •Feature engineering
-       •Feature encoding
-       •Cross validation
-       •Hyperparameter tuning
--Using different ML models of SciKit Learn:
-       •Logistic regression
-       •Support vector machines(SVM)
-       •K-nearest neighbours
-       •Gaussian naive bayes
-       •Perceptron
-       •Linear SVC
-       •Stochastic gradient descent
-       •Decision tree
-       •Random forest
+- Data Handling             
+- Data description        
+- Exploratory Data Analysis (EDA)        
+- Feature analysis        
+- Data Cleaning        
+- Data preprocessing        
+       •Data transformation        
+       •Feature engineering        
+       •Feature encoding        
+       •Cross validation        
+       •Hyperparameter tuning        
+- Using different ML models of SciKit Learn:        
+       •Logistic regression        
+       •Support vector machines(SVM)        
+       •K-nearest neighbours        
+       •Gaussian naive bayes                
+       •Perceptron        
+       •Linear SVC        
+       •Stochastic gradient descent        
+       •Decision tree        
+       •Random forest        
        •CatBoost
        
        
-## Python libraries used
--Pandas
--Numpy
--SciKit Learn
--Seaborn
--Matplotlib
--Catboost
--Missingno
+## Python libraries used        
+- Pandas        
+- Numpy
+- SciKit Learn
+- Seaborn
+- Matplotlib
+- Catboost
+- Missingno
