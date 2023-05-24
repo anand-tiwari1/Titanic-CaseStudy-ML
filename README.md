@@ -3,7 +3,7 @@
 ## Introduction
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger.
 
-Given a passenger aboard the Titanic, this is a prediction whether or not this passenger has survived? In other words, a trained machine learning model to learn the relationship between passenger features and their survival outcome and susbsequently make survival predictions on passenger data that the model has not been trained on. This is a binary classfication problem in machine learning
+Given a passenger aboard the Titanic, this is a prediction whether or not this passenger has survived? In other words, a trained machine learning model to learn the relationship between passenger features and their survival outcome and subsequently make survival predictions on passenger data that the model has not been trained on. This is a binary classfication problem in machine learning
 
 ## Data description
 Below are the description of the features in the data:
